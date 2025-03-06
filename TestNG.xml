@@ -5,7 +5,7 @@
 </listeners>
     <test name="TestName">
         <classes>
-            <class name="com.example.orangehrms.LoginPageTest"/>
+            <class name="com.example.orangehrms.AddEmployeeTest"/>
         </classes>
     </test>
 </suite>
